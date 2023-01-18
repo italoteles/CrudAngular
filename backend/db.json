@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta Bic Preta",
-      "price": 5.89
+      "price": "5.444"
     },
     {
       "id": 2,
@@ -14,11 +14,6 @@
       "id": 3,
       "name": "Celular Samsung",
       "price": 1590.99
-    },
-    {
-      "name": "Produto Teste",
-      "price": 120.99,
-      "id": 4
     },
     {
       "name": "Primeiro Produto",
