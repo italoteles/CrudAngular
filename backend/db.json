@@ -19,6 +19,36 @@
       "name": "Primeiro Produto",
       "price": "11.07",
       "id": 5
+    },
+    {
+      "name": "Sabão",
+      "price": "1",
+      "id": 6
+    },
+    {
+      "name": "Produto Teste",
+      "price": 120.99,
+      "id": 7
+    },
+    {
+      "name": "Produto Teste",
+      "price": 120.99,
+      "id": 8
+    },
+    {
+      "name": "Produto Teste",
+      "price": 120.99,
+      "id": 9
+    },
+    {
+      "name": "Produto Teste",
+      "price": 120.99,
+      "id": 10
+    },
+    {
+      "name": "Produto Teste",
+      "price": 120.99,
+      "id": 11
     }
   ]
 }
